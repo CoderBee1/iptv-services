@@ -8,5 +8,3 @@ Please Follow Me..
 Regards Muhammad Tufail - CoderBee1
 
 Template Name: Services
-
-License: https://bootstrap.com/
