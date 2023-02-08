@@ -9,4 +9,4 @@ Regards Muhammad Tufail - CoderBee1
 
 Template Name: Services
 
-License: https://bootstrapmade.com/license/
+License: https://bootstrap.com/
